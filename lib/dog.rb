@@ -10,7 +10,5 @@ class Dog
     @name = new_name
   end
 end
-dog = Dog.new("dog_name")
-dog.name
 
 
